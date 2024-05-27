@@ -1,0 +1,7 @@
+input: 5
+	 3
+	 4
+	 8
+	 9
+	 10
+output: laghar

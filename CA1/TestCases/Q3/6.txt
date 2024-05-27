@@ -1,0 +1,7 @@
+input: 3
+	 8
+	 0
+	 0.0085
+output: -0.0001
+	  bedoon rishe
+	  bedoon rishe
